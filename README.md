@@ -1,8 +1,5 @@
-# StudyAWS
-AWS를 이용해서 이것저것 해보자\!
-
-       
-      
+STUDY AWS
+=========
 
 ## 무엇을.
 개인 프로젝트 배포/운영
@@ -21,7 +18,10 @@ AWS를 이용해서 이것저것 해보자\!
 1. 운영체제는 Amazon Linux 2 AMI (HVM) - Kernel 4.14, SSD Volume Type
 2. 키페어 생성.
 3. putty 접속 https://sujinisacat.tistory.com/17
-4. 자바 설치
+4. Root계정 활성화 https://goddaehee.tistory.com/193
+5. 자바 설치 (openJDk 1.8.0)
+6. 톰캣 설치 https://skd03052.tistory.com/236
+
 
 
 ## 그다음 스탭에 해낼것.
