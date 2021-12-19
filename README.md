@@ -1,5 +1,6 @@
 # STUDY AWS
-----
+
+---
 
 ## 무엇을.
 개인 프로젝트 배포/운영
@@ -7,11 +8,11 @@
 ---
 
 ## 어떻게.
-> 1. JAVA Spring
-> 2. AWS   
->   EC2 생성
-> 3. Git   
-    자동배포   
+1. JAVA Spring
+2. AWS   
+    EC2 생성
+3. Git   
+    자동배포    
     젠킨스 연동 방법 https://kingofbackend.tistory.com/141
 
 ---
@@ -50,16 +51,16 @@
 
 ## 나를 위한 메모   
 
-> 1.  톰캣
-> * 톰캣 실행 명령어 = service tomcat start    
-> 2. 리눅스
-> * source 명령어   
-    https://klero.tistory.com/entry/source-%EB%AA%85%EB%A0%B9%EC%96%B4%EB%9E%80
-> * IP 확인 명령어 = hostname -I
-> * tar 압축풀기    
-    https://nota.tistory.com/53
-> 3. 마크다운
-> * 마크다운 문법    
+> 1.  톰캣   
+>  톰캣 실행 명령어 = service tomcat start    
+> 2. 리눅스   
+>   source 명령어   
+    https://klero.tistory.com/entry/source-%EB%AA%85%EB%A0%B9%EC%96%B4%EB%9E%80   
+>   IP 확인 명령어 = hostname -I   
+>   tar 압축풀기    
+    https://nota.tistory.com/53   
+> 3. 마크다운   
+>   마크다운 문법    
     https://gist.github.com/ihoneymon/652be052a0727ad59601
 
 
