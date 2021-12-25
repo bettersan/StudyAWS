@@ -28,7 +28,8 @@
 8. GIT 설치
 9. Jenkins 설치(9090) http://blog.illunex.com/201207-2/   
      sudo amazon-linux-extras install epel
-    아나.. 포트변경안되서 삽질했는데 생각해보니 인바운드 열어줘야됐음..
+    아나.. 포트변경안되서 삽질했는데 생각해보니 인바운드 열어줘야됐음..   
+    https://velog.io/@gahae37/Jenkins-%EC%82%AC%EC%9A%A9%EB%B2%95
 
 
 
