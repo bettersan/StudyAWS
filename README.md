@@ -26,6 +26,10 @@
 6. 톰캣 설치 https://skd03052.tistory.com/236 -> 그냥 yum으로 깔음   
 7. EC2 인바운드 포트 개방
 8. GIT 설치
+9. Jenkins 설치 https://velog.io/@yundleyundle/AWS-EC2%EC%97%90-Jenkins-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0   
+     sudo amazon-linux-extras install epel
+
+
 
 
 ---
