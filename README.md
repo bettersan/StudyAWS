@@ -23,7 +23,7 @@
 3. putty 접속 https://sujinisacat.tistory.com/17
 4. Root계정 활성화 https://goddaehee.tistory.com/193
 5. 자바 설치 (openJDk 1.8.0)
-6. 톰캣 설치 https://skd03052.tistory.com/236
+6. 톰캣 설치 https://skd03052.tistory.com/236 -> 그냥 yum으로 깔음   
 7. EC2 인바운드 포트 개방
 8. GIT 설치
 
@@ -61,6 +61,7 @@ DB 연동 (mysql???)
 >   tar 압축풀기    
     https://nota.tistory.com/53   
 >   파일 찾기 = find . -name "파일명"
+>   디렉토리 삭제 = rm -rf "디렉토리명"
 
 > 3. 마크다운   
 >   마크다운 문법    
