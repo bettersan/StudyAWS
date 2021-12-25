@@ -25,6 +25,7 @@
 5. 자바 설치 (openJDk 1.8.0)
 6. 톰캣 설치 https://skd03052.tistory.com/236
 7. EC2 인바운드 포트 개방
+8. GIT 설치
 
 
 ---
@@ -39,8 +40,7 @@
 ---
 
 ## 물어볼것 || 알아볼것 
-1. AWS 로그인 보안 머머해야되는지 물어보기
-2. yum이 머지? apt-get이 머지?
+
 
 ---
 
@@ -59,11 +59,13 @@
 >   IP 확인 명령어 = hostname -I   
 >   tar 압축풀기    
     https://nota.tistory.com/53   
+>   파일 찾기 = find . -name "파일명"
+
 > 3. 마크다운   
 >   마크다운 문법    
     https://gist.github.com/ihoneymon/652be052a0727ad59601
-
-
+> 4. GIT    
+   git config 설정 하는방법 https://webisfree.com/2018-07-26/git-config-%EC%84%A4%EC%A0%95-%ED%99%95%EC%9D%B8-%EB%B0%8F-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0
 
 
 
