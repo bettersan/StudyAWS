@@ -73,8 +73,8 @@ DB 연동 (mysql???)
     https://gist.github.com/ihoneymon/652be052a0727ad59601
 > 4. GIT    
    git config 설정 하는방법 https://webisfree.com/2018-07-26/git-config-%EC%84%A4%EC%A0%95-%ED%99%95%EC%9D%B8-%EB%B0%8F-%EB%B3%80%EA%B2%BD%ED%95%98%EA%B8%B0
+   
 
-
-
-
+> 5. JENKINS   
+    https://chinggin.tistory.com/397
 
