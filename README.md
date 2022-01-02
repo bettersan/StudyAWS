@@ -38,6 +38,7 @@
 ## 그다음 스탭에 해낼것.
 Jenkins 연동   
 DB 연동 (mysql???)
+postgre
 
 
 
@@ -76,5 +77,7 @@ DB 연동 (mysql???)
    
 
 > 5. JENKINS   
-    https://chinggin.tistory.com/397
+    https://chinggin.tistory.com/397   
+    https://krksap.tistory.com/1806
 
+> 6. 조성일 / REACT NATIVE / DBeaver / REST API / POSTMAN / 노마드코더 / whimsical
